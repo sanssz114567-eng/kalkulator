@@ -12,4 +12,9 @@ Pembagian (/): Membagi dua angka dengan validasi anti-error jika pembagi adalah 
 
 🛠️ PrasyaratSebelum menjalankan program ini, pastikan Anda sudah menginstal:Python 3.x di komputer Anda.
 
-💻 Cara MenjalankanSalin kode kalkulator ke dalam file baru dan beri nama kalkulator.py.Buka terminal atau command prompt.Jalankan perintah berikut:bash
+💻 Cara Menjalankan
+Salin kode kalkulator ke dalam file baru dan beri nama kalkulator.py.
+
+Buka terminal atau command prompt.
+
+Jalankan perintah berikut:bash
