@@ -14,7 +14,7 @@ Pembagian (/): Membagi dua angka dengan validasi anti-error jika pembagi adalah 
 
 💻 Cara Menjalankan
 
--alin kode kalkulator ke dalam file baru dan beri nama kalkulator.py.
+-salin kode kalkulator ke dalam file baru dan beri nama kalkulator.py.
 
 -Buka terminal atau command prompt.
 
